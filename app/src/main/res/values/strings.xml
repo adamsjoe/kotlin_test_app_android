@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFirstSuperApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="fldName1">helpme</string>
+    <string name="btnSend">Send</string>
+    <string name="txtResult">res</string>
+</resources>
